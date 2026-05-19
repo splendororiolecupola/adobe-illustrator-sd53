@@ -1,4 +1,4 @@
-# 
+# smart Affinity Photo PC版 插件 是最佳 Affinity Photo PC版 插件，集成 节点工作流 和 渲染。安全、可靠、优化，性能最大化。
 
 
 
